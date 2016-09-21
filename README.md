@@ -20,5 +20,9 @@ All students **MUST** visit this url: [Confirmation Link](https://classroom.gith
 Your new repository will start looking exactly like the current repository`assignment-1-spec`. So there will be four versions of README.md under the names of: `README-SLIDER.md`, `README-ACCORDION.md`, `README-MODAL.md`, `README-SEARCH-SUGGESTION-DROPDOWN.md`. Exactly like here now!    
 In your own new assignment respository `https://github.com/web-advanced-fall-2016/assignment-1-${your username}`, go on and delete README.md and replace it with the readme of your choice.    
 
-
-**Start Coding :)**.
+#### Example
+Just to show the what procedure is like, I created a new github account for an imaginary student (for test): his name is "Sample Student". This is his github profile link: [https://github.com/sample-student](https://github.com/sample-student). (while logged in as "Sample Student") Clicked on the aforementioned confirmation link. GitHub classroom automatically created this repository for him : [https://github.com/web-advanced-fall-2016/assignment-1-sample-student](https://github.com/web-advanced-fall-2016/assignment-1-sample-student). Then let's assume that "Sample Student" picked to develop `Accordion`. So, he removed all of the readme files except the one for accordion and added his information to it.    
+     
+     
+     
+##**Start Coding :)**
