@@ -32,6 +32,5 @@
 * Use ES2015
 * Nested Accordion
 * Add additional options to it.
-* Make it look BEAUTIFUL
 * Use event delegation in your event handling
 
