@@ -10,8 +10,9 @@ Each student should develop one user interface element ( What are UI elements? S
 If you were interested in developing other UI elements other than these four options, let me know and we'll make that work.
 
 ###BONUS POINTS
-* Each options has its own bonus requirements.
-* If you put together a demo page for your assignment when you are done with it (something like [**THIS**](https://samantehrani.github.io/simple-carousel/)) it'll be big bonus. It's just good presentation and is great for own. Look here for [how to do so](https://github.com/web-advanced-fall-2016/class-wiki/wiki/Create-a-GitHub-Project-Page-for-project's-demo).
+* Each option has its own bonus requirements.
+* If you put together a demo page for your assignment when you are done developing it (something like [**THIS**](https://samantehrani.github.io/simple-carousel/)) it'll be a big bonus. It's just good presentation of your work and is great for own. Look here for [how to do so](https://github.com/web-advanced-fall-2016/class-wiki/wiki/Create-a-GitHub-Project-Page-for-project's-demo).
+* Make it look BEAUTIFUL
 
 ## Submission Details
 All the submission must be done through github to our class organization [@web-advanced-fall-2016](https://github.com/web-advanced-fall-2016). The assignment will be accomodated and distributed using [GitHub Classroom](https://classroom.github.com/). GitHub classroom will automatically create a repository in our organization for each student and will grant administrative rights of that repository to that student.    
