@@ -48,7 +48,7 @@
 
 * Make it Object Oriented
 * Use ES2015
-* Carousel can handle any element as it's slides with any content( text? ) ( <img>, <p>, <video>, <audio>, <div>).
+* Carousel can handle any element as it's slides with any content like text(`<p>,<video>, <audio>,<div>`).
 * Auto transition option, duration of the time on each slide.
 * Make option to choose from Horizontal or Vertical transition. OR even both.
 * Add thumbnail pane beneath it (http://sachinchoolur.github.io/lightslider/).
