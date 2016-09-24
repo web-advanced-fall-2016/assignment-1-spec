@@ -1,6 +1,6 @@
 # Modal Element
 
-#### What is a Carousel?
+#### What is a Modal?
 
 - [Semantic UI](http://semantic-ui.com/modules/modal.html)
 - [Foundation](http://foundation.zurb.com/sites/docs/v/5.5.3/components/reveal.html)
